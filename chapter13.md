@@ -44,7 +44,7 @@
 
 \[22\] LISKOV, B.,ANDCOWLING, J. Viewstamped replica- tion revisited. Tech. Rep. MIT-CSAIL-TR-2012-021, MIT, July 2012.
 
-\[23\] LogCabin source code.http://github.com/ logcabin/logcabin.
+\[23\] LogCabin source code.[http://github.com/](http://github.com/) logcabin/logcabin.
 
 \[24\] LORCH, J. R., ADYA, A., BOLOSKY, W. J., CHAIKEN, R., DOUCEUR, J. R.,ANDHOWELL, J. The SMART way to migrate replicated stateful services. InProc. Eu- roSys’06, ACM SIGOPS/EuroSys European Conference on Computer Systems\(2006\), ACM, pp. 103–115.
 
@@ -52,17 +52,33 @@
 
 WANs. InProc. OSDI’08, USENIX Conference on Operating Systems Design and Implementation\(2008\), USENIX, pp. 369–384.
 
-\[26\] MAZIE\`RES, D. Paxos made practical. http://www.scs.stanford.edu/̃dm/home/papers/paxos.pdf, Jan. 2007.
+\[26\] MAZIE\`RES, D. Paxos made practical. [http://www.scs.stanford.edu/̃dm/home/papers/paxos.pdf](http://www.scs.stanford.edu/̃dm/home/papers/paxos.pdf), Jan. 2007.
 
 \[27\] MORARU, I., ANDERSEN, D. G.,ANDKAMINSKY, M. There is more consensus in egalitarian parliaments. InProc. SOSP’13, ACM Symposium on Operating System Principles\(2013\), ACM.
 
-\[28\] Raft user study.http://ramcloud.stanford. edu/̃ongaro/userstudy/.
+\[28\] Raft user study.[http://ramcloud.stanford](http://ramcloud.stanford). edu/̃ongaro/userstudy/.
 
 \[29\] OKI, B. M.,ANDLISKOV, B. H. Viewstamped replication: A new primary copy method to support highly-available distributed systems. InProc. PODC’88, ACM Symposium on Principles of Distributed Computing\(1988\), ACM, pp. 8–17.
 
 \[30\] O’NEIL, P., CHENG, E., GAWLICK, D.,ANDONEIL, E. The log-structured merge-tree \(LSM-tree\).Acta Informat- ica 33, 4 \(1996\), 351–385.
 
-\[31\] ONGARO, D.Consensus: Bridging Theory and Practice. PhD thesis, Stanford University, 2014 \(work in progress\).  http://ramcloud.stanford.edu/̃ongaro/ thesis.pdf.
+\[31\] ONGARO, D.Consensus: Bridging Theory and Practice. PhD thesis, Stanford University, 2014 \(work in progress\).  [http://ramcloud.stanford.edu/̃ongaro/](http://ramcloud.stanford.edu/̃ongaro/) thesis.pdf.
+
+\[32\] ONGARO, D.,ANDOUSTERHOUT, J. In search of an understandable consensus algorithm. InProc ATC’14, USENIX Annual Technical Conference\(2014\), USENIX.
+
+\[33\] OUSTERHOUT, J., AGRAWAL, P., ERICKSON, D., KOZYRAKIS, C., LEVERICH, J., MAZIE\`RES, D., MI-TRA, S., NARAYANAN, A., ONGARO, D., PARULKAR, G., ROSENBLUM, M., RUMBLE, S. M., STRATMANN, E.,ANDSTUTSMAN, R. The case for RAMCloud.Com- munications of the ACM 54\(July 2011\), 121–130.
+
+\[34\] Raft consensus algorithm website.http://raftconsensus.github.io.
+
+\[35\] REED, B. Personal communications, May 17, 2013.
+
+\[36\] ROSENBLUM, M.,ANDOUSTERHOUT, J. K. The design and implementation of a log-structured file system.ACM Trans. Comput. Syst. 10\(February 1992\), 26–52.
+
+\[37\] SC H N E I D E R, F. B . Implementing fault-tolerant services using the state machine approach: a tutorial.ACM Com- puting Surveys 22, 4 \(Dec. 1990\), 299–319.
+
+\[38\] SHVACHKO, K., KUANG, H., RADIA, S.,ANDCHANSLER, R. The Hadoop distributed file system. InProc. MSST’10, Symposium on Mass Storage Sys- tems and Technologies\(2010\), IEEE Computer Society, pp. 1–10.
+
+\[39\] VANRENESSE, R. Paxos made moderately complex. Tech. rep., Cornell University, 2012.
 
 
 
