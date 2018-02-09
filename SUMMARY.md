@@ -5,5 +5,6 @@
 * [1 介绍](chapter1.md)
 * [2 复制状态机](chapter2.md)
 * [3 Paxos有什么问题吗](chapter3.md)
-* [chapter4](chapter4.md)
+* [4 可理解性设计](chapter4.md)
+* [chapter5](chapter5.md)
 
