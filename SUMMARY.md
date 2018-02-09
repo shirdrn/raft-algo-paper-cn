@@ -11,4 +11,5 @@
 * [7 日志压缩](chapter7.md)
 * [8 客户端交互](chapter8.md)
 * [9 实现与评估](chapter9.md)
+* [chapter10](chapter10.md)
 
