@@ -10,7 +10,7 @@
   * [5.1 Raft 基础](chapter5/5-1.md)
   * [5.2 Leader 选举](chapter5/5-2.md)
   * [5.3 日志复制](chapter5/5-3.md)
-  * [5-4](chapter5/5-4.md)
+  * [5.4 安全性](chapter5/5-4.md)
     * 5-4-1
     * 5-4-2
     * 5-4-3
