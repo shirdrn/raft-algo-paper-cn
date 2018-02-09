@@ -7,7 +7,7 @@
 * [3 Paxos 有什么问题吗](chapter3.md)
 * [4 可理解性设计](chapter4.md)
 * [5 Raft 一致性算法](chapter5.md)
-  * [5-1](chapter5/5-1.md)
+  * [5.1 Raft 基础](chapter5/5-1.md)
   * 5-2
   * 5-3
   * [5-4](chapter5/5-4.md)
