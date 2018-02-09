@@ -13,5 +13,5 @@
 * [9 实现与评估](chapter9.md)
 * [10 相关工作](chapter10.md)
 * [11 总结](chapter11.md)
-* [chapter12](chapter12.md)
+* [12 致谢](chapter12.md)
 
