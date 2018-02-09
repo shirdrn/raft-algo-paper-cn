@@ -16,7 +16,7 @@
     * [5.4.3 安全性论证](chapter5/5-4/5-4-3.md)
   * [5.5 Follower 与 Candidate 崩溃](chapter5/5-5.md)
   * [5.6 时序与可用性](chapter5/5-6.md)
-* [6 集群成员角色变更](chapter6.md)
+* [6 集群成员变更](chapter6.md)
 * [7 日志压缩](chapter7.md)
 * [8 客户端交互](chapter8.md)
 * [9 实现与评估](chapter9.md)
