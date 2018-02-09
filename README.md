@@ -2,3 +2,13 @@
 
 
 
+In Search of an Understandable Consensus Algorithm
+
+
+
+Diego Ongaro and John Ousterhout 
+
+Stanford University
+
+
+
