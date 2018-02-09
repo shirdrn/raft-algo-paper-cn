@@ -5,4 +5,5 @@
 * [1 介绍](chapter1.md)
 * [2 复制状态机](chapter2.md)
 * [3 Paxos有什么问题吗](chapter3.md)
+* [chapter4](chapter4.md)
 
