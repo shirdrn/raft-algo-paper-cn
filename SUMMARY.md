@@ -8,5 +8,6 @@
 * [4 可理解性设计](chapter4.md)
 * [5 Raft 一致性算法](chapter5.md)
 * [6 集群成员角色变更](chapter6.md)
-* [chapter7](chapter7.md)
+* [7 日志压缩](chapter7.md)
+* [chapter8](chapter8.md)
 
