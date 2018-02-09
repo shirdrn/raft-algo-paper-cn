@@ -10,4 +10,5 @@
 * [6 集群成员角色变更](chapter6.md)
 * [7 日志压缩](chapter7.md)
 * [8 客户端交互](chapter8.md)
+* [9 实现与评估](chapter9.md)
 
